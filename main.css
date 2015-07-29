@@ -1,0 +1,55 @@
+body{
+	/*background-color: red;*/
+	background-image: url("flaksbury.jpg");
+}
+
+#flaksburyst {
+	width: 800px;
+	height: 150px;
+	margin: 0 auto;
+	font-size: 24px;
+	color: green;
+	background-color: white;
+	margin-bottom: 30px;
+}
+
+#flaksburyst:hover {
+	background-color: blue;
+}
+
+#clothes {
+	width: 800px;
+	height: 150px;
+	margin: 0 auto;
+	font-size: 28px;
+	color: orange
+;
+	background-color: gold;
+	margin-bottom: 30px;
+}
+
+#clothes:hover {
+background-color: red;
+
+
+}
+
+#accesories {
+	width: 800px;
+	height: 150px;
+	margin: 0 auto;
+	font-size: 28px;
+	color: green;
+	background-color: black;
+	margin-bottom: 30px;
+}
+
+#logo img {
+	width: 250px;
+	/*height: 250px;*/
+}
+
+@media screen and (max-width: 200px) {
+    body {
+    }
+}
